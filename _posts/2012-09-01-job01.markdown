@@ -1,0 +1,8 @@
+---
+layout: null
+title: Sep 2012- May 2014
+subtitle: Undergraduate Teaching Assistant, University of Bath, Bath, UK
+image: "img/timeline/bath1.jpg"
+---
+While studying for my first degree, I worked as an undergraduate teaching assistant for undergraduate courses on Linear and Abstract Algebra. This involved conducting tutorial sessions and grading
+assignments.

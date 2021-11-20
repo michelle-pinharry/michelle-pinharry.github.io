@@ -1,0 +1,7 @@
+---
+layout: null
+title: July 2020
+subtitle: Phd Mathematics, University of Minnesota, MN.
+image: "img/timeline/phd.jpg"
+---
+Research topic: weighted quasimap wallcrossings via localization.
