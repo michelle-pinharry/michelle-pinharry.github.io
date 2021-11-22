@@ -4,4 +4,5 @@ title: Summer 2013
 subtitle: Research Intern, STOR-i Doctoral Training Center, Lancaster University, UK.
 image: "img/timeline/lancaster.jpg"
 ---
-Vix ne omnesque interpretaris, per ut menandri tincidunt conclusionemque. Sit te simul clita, et vis dicant probatus honestatis
+* Stand-alone instructor for intensive summer course on Multivariable Calculus
+* Designed course materials included syllabi, written assignments and exams

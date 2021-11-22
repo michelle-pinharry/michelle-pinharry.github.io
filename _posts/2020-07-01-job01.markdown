@@ -4,4 +4,4 @@ title: July 2020
 subtitle: Phd Mathematics, University of Minnesota, MN.
 image: "img/timeline/phd.jpg"
 ---
-Research topic: weighted quasimap wallcrossings via localization.
+My research was focus was quasimap theory, which was developed by my advisor, Ionut Ciocan-Fontanine and his collaborators. This has connections to mirror symmetry and string theory.
