@@ -5,4 +5,4 @@ subtitle: Lecturer, University of Minnesota, Minneapolis, MN
 image: "img/timeline/mn1.jpg"
 ---
 * Stand-alone instructor for intensive summer course on Multivariable Calculus
-* Designed course materials included syllabi, written assignments and exams
+* Designed course materials including syllabi, written assignments and exams

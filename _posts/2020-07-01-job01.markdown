@@ -4,4 +4,4 @@ title: July 2020
 subtitle: Phd Mathematics, University of Minnesota, MN.
 image: "img/timeline/phd.jpg"
 ---
-My research was focus was quasimap theory, which was developed by my advisor, Ionut Ciocan-Fontanine and his collaborators. This has connections to mirror symmetry and string theory.
+My research focus was quasimap theory, which was developed by my advisor, Ionut Ciocan-Fontanine and his collaborators. This has connections to mirror symmetry and string theory.

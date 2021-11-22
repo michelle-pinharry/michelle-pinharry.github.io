@@ -4,5 +4,4 @@ title: Sep 2020 - present
 subtitle: Lead AI Scientist, Target Corporation, Minneapolis, MN
 image: "img/timeline/default.jpeg"
 ---
-* Currently working on developing large-scale machine learning products with a focus on computer vision using both deep learning methods and traditional image processing techniques
-* Involved in entire pipeline: Data Collection --> Data Cleaning --> Feature Extraction/Model --> Deployment --> Error Analysis
+Currently working on developing large-scale machine learning products with a focus on computer vision using both deep learning methods and traditional image processing techniques. Involved in entire pipeline, from data collection/cleaning, to feature extraction/model fitting, to error analysis and deployment.

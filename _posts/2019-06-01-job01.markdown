@@ -4,6 +4,4 @@ title: Summer 2019
 subtitle: AI Scientist Intern, Target, Minneapolis, MN
 image: "img/timeline/tgt1.jpg"
 ---
-* Worked on project focused on learning private representations of images in the context of deep metric learning
-* Curated bespoke dataset consisting of 14 million images from Open Images V5
-* Set up and trained adversarial model resulting in significant privacy-utility trade-off
+Worked on project focused on learning private representations of images in the context of deep metric learning. This involded curating a bespoke dataset using te publically available dataset Open Images V5, as well as setting up and training an adversarial model which resulted in a significant privacy-utility trade-off.

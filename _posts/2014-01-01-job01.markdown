@@ -4,3 +4,4 @@ title: Sep 2011 - Sep 2014
 subtitle: BSc (Hons) Mathematics, University of Bath, Bath, UK.
 image: "img/timeline/bath3.jpg"
 ---
+Graduated with First Class Honours.
