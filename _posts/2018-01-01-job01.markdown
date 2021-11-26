@@ -1,7 +1,7 @@
 ---
 layout: null
 title: Summer 2018
-subtitle: Research Intern, Institute for Mathematics and its Applications, UMN, MN.
-image: "img/timeline/mn2.jpg"
+subtitle: Research Intern, Institute for Mathematics and its Applications (IMA), UMN, MN.
+image: "img/timeline/barcode.jpg"
 ---
 Worked on a team project on the computer vision problem of locating barcodes in images. Explored both classic image processing techniques and transfer-learning with CNN's. Collaborated with industrial scientist on algorithms to detect change-points in multi-dimensional time series with over 4 million data points. Packages used included scikit-learn, numpy, pandas and matplotlib.
