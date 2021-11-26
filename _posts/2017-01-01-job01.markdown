@@ -2,7 +2,7 @@
 layout: null
 title: Summer 2016, Summer 2017
 subtitle: Lecturer, University of Minnesota, Minneapolis, MN
-image: "img/timeline/mn1.jpg"
+image: "img/timeline/mn1.JPG"
 ---
 * Stand-alone instructor for intensive summer course on Multivariable Calculus
 * Designed course materials including syllabi, written assignments and exams
